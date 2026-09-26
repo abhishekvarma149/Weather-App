@@ -47,7 +47,3 @@ This project requires an API key from OpenWeatherMap.
    const API_KEY = "YOUR_API_KEY_HERE";
    ```
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! 
-Feel free to check [issues page](https://github.com/abhishekvarma149/Weather-App/issues).
